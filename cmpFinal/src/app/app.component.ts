@@ -32,3 +32,12 @@ export class AppComponent {
     this.serverElements.splice(0, 1);
   }
 }
+
+
+.container {
+  margin-top: 30px;
+}
+
+p {
+  color: blue;
+}
