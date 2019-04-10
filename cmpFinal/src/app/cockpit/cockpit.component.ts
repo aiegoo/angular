@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { Component, OnInit, EventEmitter, Output, ViewChild, ElementRef } from '@angular/core';
+=======
+git import { Component, OnInit, EventEmitter, Output, ViewChild, ElementRef } from '@angular/core';
+>>>>>>> recipe
 
 @Component({
   selector: 'app-cockpit',
